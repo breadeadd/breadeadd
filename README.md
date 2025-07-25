@@ -22,10 +22,7 @@ I am passionate about innovation, problem-solving, creativity and learning new t
 
 ### 🛠️ Skills & Tools
 
-- HTML
-- CSS
-- Java
-- Python
+- HTML, CSS, Java, Python
 
 ### 🎯 Goals
 
