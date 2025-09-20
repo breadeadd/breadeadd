@@ -24,9 +24,10 @@ I am passionate about innovation, problem-solving, creativity and learning new t
 
 - HTML, CSS, Java, Python
 
-### 🎯 Goals
+### 🎯 Current Projects
 
-- React
+- Personal Portfolio - Tailwind css, React
+- DnD Online Character Inventory App
 
 ### 👥Involvement
 
