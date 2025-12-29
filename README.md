@@ -26,8 +26,8 @@ I am passionate about innovation, problem-solving, creativity and learning new t
 
 ### 🎯 Current Projects
 
-- Personal Portfolio - HTML/CSS, Tailwind CSS, Javascript, React
-- DnD Online Character Inventory App
+- Robogals Volunteer Portal - React, Node JS, Tailwind CSS
+- Personal Portfolio - HTML/CSS, Tailwind CSS, Javascript
 
 ### 👥Involvement
 
