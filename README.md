@@ -22,7 +22,8 @@ I am passionate about innovation, problem-solving, creativity and learning new t
 
 ### 🛠️ Skills & Tools
 
-- HTML, CSS, Java, Python
+- HTML, CSS, Tailwind CSS, Java, Python, C, NodeJS
+- Figma, Adobe
 
 ### 🎯 Current Projects
 
