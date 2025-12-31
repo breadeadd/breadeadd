@@ -28,7 +28,7 @@ I am passionate about innovation, problem-solving, creativity and learning new t
 ### 🎯 Current Projects
 
 - Robogals Volunteer Portal - React, Node JS, Tailwind CSS
-- Personal Portfolio - HTML/CSS, Tailwind CSS, Javascript
+- Personal Portfolio - Migrating to React
 
 ### 👥Involvement
 
