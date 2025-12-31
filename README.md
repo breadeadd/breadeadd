@@ -22,7 +22,7 @@ I am passionate about innovation, problem-solving, creativity and learning new t
 
 ### 🛠️ Skills & Tools
 
-- HTML, CSS, Tailwind CSS, Java, Python, C, NodeJS
+- React, HTML, CSS, Tailwind CSS, Java, Python, C, NodeJS
 - Figma, Adobe
 
 ### 🎯 Current Projects
@@ -37,7 +37,7 @@ I am passionate about innovation, problem-solving, creativity and learning new t
 
 ### 📨How to Reach Me
 
-- Find out more [about me!](https://breadeadd.github.io/caitlin-portfolio/)
+- Find out more about me! Check out my [portfolio](https://breadeadd.github.io/caitlin-portfolio/)
 - [LinkedIn](www.linkedin.com/in/caitlin-kuan-babb70208)
 - Email: caitlinkuan49@gmail.com
 
