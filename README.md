@@ -23,7 +23,7 @@ I am passionate about innovation, problem-solving, creativity and learning new t
 ### 🛠️ Skills & Tools
 
 - React, HTML, CSS, Tailwind CSS, Java, Python, C, NodeJS
-- Figma, Adobe
+- Figma, Adobe, Affinity
 
 ### 🎯 Current Projects
 
@@ -32,7 +32,7 @@ I am passionate about innovation, problem-solving, creativity and learning new t
 
 ### 👥Involvement
 
-- Marketing coordinator - Software Engineering Student Association
+- Marketing Director - Software Engineering Student Association
 - Marketing manager - Robogals Auckland
 
 ### 📨How to Reach Me
