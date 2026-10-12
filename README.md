@@ -22,13 +22,18 @@ I am passionate about innovation, problem-solving, creativity and learning new t
 
 ### 🛠️ Skills & Tools
 
-- React, HTML, CSS, Tailwind CSS, Java, Python, C, NodeJS
-- Figma, Adobe, Affinity
+- **Frontend:** React, HTML, CSS, Tailwind CSS
+- **Backend & Runtime:** Node.js
+- **Mobile:** Kotlin
+- **Languages:** Java, Python, C, JavaScript
+- **Database & Services:** Supabase
+- **Design & Creative Tools:** Figma, Adobe, Affinity
+- **Dev Tools:** npm, Git, GitHub
 
 ### 🎯 Current Projects
 
-- Internship Tracker - React, Tailwind, npm, supabase
-- Get Up App - Kotlin
+- **Internship Tracker** - React, Tailwind CSS, npm, Supabase
+- **Get Up App** - Kotlin (Android)
 
 ### 👥Involvement
 
@@ -40,5 +45,4 @@ I am passionate about innovation, problem-solving, creativity and learning new t
 - Find out more about me! Check out my [portfolio](https://breadeadd.github.io/caitlin-portfolio/)
 - [LinkedIn](www.linkedin.com/in/caitlin-kuan-babb70208)
 - Email: caitlinkuan49@gmail.com
-
 
