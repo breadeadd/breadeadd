@@ -5,7 +5,7 @@
 **Software Engineering student · Auckland, NZ**
 Building at the intersection of software and design ✨
 
-[![Portfolio](https://img.shields.io/badge/✨_View_My_Portfolio-ff8fab?style=for-the-badge)](https://breadeadd.github.io/caitlin-portfolio/)
+[![Portfolio](https://img.shields.io/badge/✨_View_My_Portfolio-ff8fab?style=for-the-badge)](https://www.caitlinkuan.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caitlin-kuan-babb70208)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caitlinkuan49@gmail.com)
 
@@ -59,6 +59,6 @@ I love creating experiences that are innovative, creative and genuinely useful, 
 
 <div align="center">
 
-**Want to see more? → [Check out my portfolio](https://breadeadd.github.io/caitlin-portfolio/)** 🌸
+**Want to see more? → [Check out my portfolio](https://www.caitlinkuan.com/)** 🌸
 
 </div>
